@@ -34,6 +34,6 @@
 | Physical predictions | ★☆☆☆☆ | Untested speculation |
 
 ## 🌌 Final Thought
-> "The history of science teaches us that the boundary between a brilliant hypothesis and pure nonsense is, at first, almost indistinguishable." — Arkadiusz Okupski.
+> "The history of science teaches us that the boundary between a brilliant hypothesis and pure nonsense is, at first, almost indistinguishable."
 > 
 > These hypotheses are offered in that spirit: as potentially useful wrongness that might spark better ideas.
