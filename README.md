@@ -20,6 +20,4 @@ The hypothesis offers a unified approach to addressing gravity, dark matter, and
 See the related cosmological model:
 -   [**Big Bang as a Detonation**](https://github.com/ArkOkupski-WAT/Big-Bang-as-a-Detonation-Explosive-Material): A complementary hypothesis modeling the Big Bang as a process of matter-antimatter annihilation.
 
-  journal = {GitHub repository},
-  howpublished = {\url{https://github.com/ArkOkupski-WAT/Emergent-Gravity-from-Substrate-Phase}}
-}
+
