@@ -2,7 +2,7 @@
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16952241.svg)](https://doi.org/10.5281/zenodo.16952241)
 
-[![Download PDF](https://img.shields.io/badge/Download-Thesis_PDF-blue?style=for-the-badge&logo=pdf)](https://github.com/ArkOkupski-WAT/Hypothesis-of-Emergent-Gravity-from-Substrate-Phase/blob/main/Hypothesis%20of%20Emergent%20Gravity%20from%20Substrate%20Phase.pdf)
+[![Download PDF](https://img.shields.io/badge/Download-Thesis_PDF-blue?style=for-the-badge&logo=pdf)](https://github.com/ArkOkupski-WAT/Hypothesis-of-Emergent-Gravity-from-Substrate-Phase/raw/main/Hipoteza%20Emergentnej%20Grawitacji%20z%20Fazy%20Pod%C5%82o%C5%BCa.pdf)
 
 ## Overview
 
