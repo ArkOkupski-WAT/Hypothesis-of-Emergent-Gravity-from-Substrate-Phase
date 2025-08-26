@@ -1,6 +1,6 @@
 # Hypothesis of Emergent Gravity from Substrate Phase
 
-[![Read PDF](https://img.shields.io/badge/Read-Thesis_PDF-important?style=for-the-badge&logo=pdf)](https://github.com/ArkOkupski-WAT/Hypothesis-of-Emergent-Gravity-from-Substrate-Phase/raw/main/Hipoteza%20Emergentnej%20Grawitacji%20z%20Fazy%20Pod%C5%82o%C5%BCa.pdf)
+[![Download PDF](https://img.shields.io/badge/Download-Thesis_PDF-blue?style=for-the-badge&logo=pdf)](https://github.com/ArkOkupski-WAT/Hypothesis-of-Emergent-Gravity-from-Substrate-Phase/raw/main/Hipoteza%20Emergentnej%20Grawitacji%20z%20Fazy%20Pod%C5%82o%C5%BCa.pdf)
 
 ## Overview
 
